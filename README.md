@@ -5,3 +5,5 @@ RAG based system using Python, Gradio, and LangChain to enable real-time, contex
 ![NO img found](UI_1.png)
 
 ![NO img found](UI_2.png)
+
+![NO img found](UI_3.png)
